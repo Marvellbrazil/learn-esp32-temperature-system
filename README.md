@@ -16,6 +16,4 @@
 
 # Interactive Embed for the Circuits (from Cirkit Designer IDE)
 
-<div style="position: relative; width: 100%; padding-top: calc(max(56.25%, 400px));">
-  <iframe src="https://app.cirkitdesigner.com/project/9331a3ad-e6c7-46e1-b22c-c91adc124685?view=interactive_preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
-</div>
+<a href="https://app.cirkitdesigner.com/project/9331a3ad-e6c7-46e1-b22c-c91adc124685?view=interactive_preview">Cirkit Designer IDE</a>
