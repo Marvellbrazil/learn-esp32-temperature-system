@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Asus/AppData/Local/Arduino15/packages/esp32/hardware/esp32/**",
+                "C:/Users/Asus/Documents/Arduino/libraries/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "ESP32",
+                "ARDUINO=10800"
+            ],
+            "compilerPath": "C:/Users/Asus/AppData/Local/Arduino15/packages/esp32/tools/xtensa-esp32s3-elf-gcc/**/bin/xtensa-esp32s3-elf-g++",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
